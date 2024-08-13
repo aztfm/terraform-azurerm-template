@@ -18,6 +18,8 @@
 
 ```
 
+Reference to more [examples](https://github.com/aztfm/terraform-azurerm-template/tree/main/examples).
+
 <!-- BEGIN_TF_DOCS -->
 ## :arrow_forward: Parameters
 
